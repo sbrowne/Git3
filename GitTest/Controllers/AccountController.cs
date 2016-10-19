@@ -15,7 +15,7 @@ namespace GitTest.Controllers
     [Authorize]
     public class AccountController : Controller  
     {
-        private ApplicationSignInManager _signInManager;      // TEST szdfcdzs
+        private ApplicationSignInManager _signInManager;      // New TEST
         private ApplicationUserManager _userManager;  
 
         public AccountController()
